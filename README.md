@@ -1,55 +1,39 @@
-🌍 COVID-19 Interactive Dashboard in Tableau
-An interactive Tableau dashboard that visualizes the spread and impact of COVID-19 across the globe, integrating confirmed cases and fertility rate per country. Built with real-world data and interactive analytics to explore temporal and geographic trends.
+# 📊 Interactive COVID-19 Visualization Dashboard
 
-<!Covid 19 Cases.twbx>
+This project is a Tableau-based interactive dashboard that explores the global impact of COVID-19 through:
 
-📁 Files in this Repository
-File Name	Description
-Covid 19 Cases.twbx	Tableau Packaged Workbook with interactive dashboard
-covid_19_clean_complete.csv	Cleaned COVID-19 dataset used for visualization
+- Confirmed cases by country
+- Death trends over time
+- Case fatality rates
+- Global geospatial distribution
 
-🔍 Dashboard Features
-📊 Interactive Bar Chart
-Select a country to update:
+The dashboard allows you to **click on a country** and dynamically update all charts.
 
-The map view
+---
 
-Associated case and fertility rate details
+## 📁 Download Dashboard
 
-📈 Dynamic Trend Line
-Controlled by a parameter that lets users:
+▶️ [Covid 19 Cases.twbx](Covid%2019%20Cases.twbx)
 
-Choose any country
+You can open this file directly in [Tableau Desktop](https://www.tableau.com/products/desktop) to explore or customize the dashboard.
 
-View its COVID-19 trend line over time
+---
 
-🗺️ Map Visualization
-Geospatial insights with automatic updates based on user interactions
+## 🖼️ Dashboard Preview
 
-🚀 Getting Started
-To explore the dashboard:
+![Dashboard Preview](COVID_Insights_2020.png)
 
-Install Tableau Desktop (free trial available).
+---
 
-Open Covid 19 Cases.twbx.
+## 💡 Tools Used
 
-Interact with the charts and parameters to analyze countries of interest.
+- **Tableau Desktop**
+- Public COVID-19 datasets (from sources like Kaggle / JHU)
 
-🗂️ Data Source
-The COVID-19 dataset is a cleaned compilation from public repositories and includes:
+---
 
-Daily confirmed cases
+## 👤 Author
 
-Deaths and recoveries
-
-Country and date breakdown
-
-📸 Preview
-You can upload a screenshot (e.g., preview.png) of your dashboard here for visual reference.
-
-📢 Contributing
-Feel free to fork this repository, suggest improvements, or add more metrics and visualizations!
-
-📜 License
-This project is shared under the MIT License.
-
+**Sonu Tamang**  
+📍 Newark, NJ  
+🔗 [LinkedIn](https://www.linkedin.com/in/sonu-tamang) | 📧 sonulama778@gmail.com  
