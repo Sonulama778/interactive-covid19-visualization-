@@ -25,6 +25,14 @@ You can open this file directly in [Tableau Desktop](https://www.tableau.com/pro
 
 ---
 
+
+## ✨ Features
+
+- Click on a country to filter all charts dynamically
+- View case fatality rate comparisons
+- Explore trends over time and geographic impact
+
+
 ## 💡 Tools Used
 
 - **Tableau Desktop**
